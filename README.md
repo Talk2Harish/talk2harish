@@ -1,5 +1,5 @@
 
-[![Talk2Harish.](https://github.com/Talk2Harish/talk2harish/blob/master/background2.jpg)](https://github.com/Talk2Harish)
+[![Talk2Harish.](https://github.com/Talk2Harish/talk2harish/blob/master/background3.jpg)](https://github.com/Talk2Harish)
 <!--
 **Talk2Harish/talk2harish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
